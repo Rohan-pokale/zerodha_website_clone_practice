@@ -108,3 +108,60 @@ body{
      font-weight:500;
      font-size: 18px;
 }
+.media{
+     display: flex;
+     justify-content: center;
+     margin-top: 30px;
+}
+
+.img-section {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     padding: 40px 0;
+   }
+   
+   /* pricing  start */
+   
+   .pricing-section {
+     display: flex;
+     padding: 0 8vw;
+     margin-top: 100px;
+     align-items: center;
+     justify-content: space-between;
+     
+   }
+   
+   .pricing-left-section {
+     width: 30vw;
+     height: 200px;
+   }
+   .pricing-left-section p{
+     margin-top: 20px;
+   }
+   
+   .pricing-right {
+     display: flex;
+     width: 50vw;
+     justify-content: space-between;
+   }
+   .pricing-card-all {
+     display: flex;
+     align-items: center;
+
+   }
+   .pricing-card-all p{
+     font-size: 12px;
+   }
+   .pricing-card-all img {
+     width: 150px;
+     width: 120px;
+     height: 120px;
+   }
+   .pricing-card-all p {
+     font-size: 12px;
+     width: 115px;
+     margin-top: 31px;
+     margin-left: -20px;
+   }
+/* pricing end     */
