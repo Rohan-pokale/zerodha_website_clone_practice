@@ -210,6 +210,9 @@ body{
     border: none;
     border-radius: 3px;
 }
+.account-block button:hover{
+     background-color: #222;
+}
 
 /* varsity end  */
 
