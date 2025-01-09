@@ -12,6 +12,9 @@ body{
      font-weight: 400;
      -webkit-font-smoothing: antialiased;
 }
+
+/* header started */
+
 .header{
      display: flex;
      justify-content: space-between;
@@ -33,6 +36,13 @@ body{
      color: #666;
      font-size:18px;
 }
+.header-links a:hover{
+color: #387ed1;
+}
+
+/* header end  */
+
+/* start section started */
 .start{
      display: flex;
      flex-direction: column;
@@ -63,6 +73,8 @@ body{
 .start button:hover{
      background-color: #222;
 }
+
+
 .main{
      display: flex;
      justify-content: space-between;
